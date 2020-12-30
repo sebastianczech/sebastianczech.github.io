@@ -29,11 +29,21 @@ github_username:  sebastianczech
 
 # Build settings
 theme: minima
+# theme: minimal-mistakes-jekyll
+# minimal_mistakes_skin: "contrast" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-coffeescript
   - jekyll-assets
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
