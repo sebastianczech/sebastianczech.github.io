@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  K8s tips - kubectl exec curl
+title: K8s tips - kubectl exec curl
 categories: kubernetes
 tags: kubernetes
 ---
