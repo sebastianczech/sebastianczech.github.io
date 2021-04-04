@@ -40,7 +40,7 @@ kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documen
 
 Join nodes to master:
 ```
-kubeadm join 10.0.1.100:6443 --token bq6idp.5le6s22jm8674rgh \
+kubeadm join 10.0.1.100:6443 --token ****** \
     --discovery-token-ca-cert-hash ******
 ```
 
