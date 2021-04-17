@@ -1,6 +1,6 @@
 ---
 layout: post
-title: K8s tips - scheduling pods with taints and tolerations in Kubernetes
+title: K8s tips - scheduling pods with taints and tolerations
 categories: kubernetes
 tags: kubernetes
 ---

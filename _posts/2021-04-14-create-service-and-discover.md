@@ -1,6 +1,6 @@
 ---
 layout: post
-title: K8s tips - creating a service and discovering DNS names in Kubernetes
+title: K8s tips - creating a service and discovering DNS names
 categories: kubernetes
 tags: kubernetes
 ---

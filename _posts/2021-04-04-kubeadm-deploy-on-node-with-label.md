@@ -1,6 +1,6 @@
 ---
 layout: post
-title: K8s tips - deploying a Pod to a Node with a Label in Kubernetes
+title: K8s tips - deploying a pod to a node with a label
 categories: kubernetes
 tags: kubernetes
 ---
