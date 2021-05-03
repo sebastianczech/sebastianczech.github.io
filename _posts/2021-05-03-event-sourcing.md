@@ -9,5 +9,5 @@ tags: python
 * [Event Sourcing in Python](https://github.com/johnbywater/eventsourcing)
 * [DDD for Python](https://github.com/runemalm/ddd-for-python)
 * [Domain Driven Design in dynamic languages](https://github.com/valignatev/ddd-dynamic)
-* [Cosmic Python](hhttp://www.cosmicpython.com/)
+* [Cosmic Python](http://www.cosmicpython.com/)
 * [Test-driven development with Python](https://www.obeythetestinggoat.com/)
