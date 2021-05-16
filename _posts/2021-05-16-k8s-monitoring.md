@@ -1,6 +1,6 @@
 ---
 layout: post
-title: K8s tips - Logging and Monitoring
+title: K8s tips - logging and monitoring
 categories: devops
 tags: devops
 ---
