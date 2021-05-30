@@ -2,7 +2,7 @@
 layout: post
 title: K8s tips - generating Kubeconfigs for a new Kubernetes cluster
 categories: devops
-tags: devops
+tags: devops, kubernetes
 ---
 
 # Generate kubelet kubeconfigs for each worker node
