@@ -18,7 +18,14 @@ tags: agile, scrum
 * [11 Ideas to Spice up Your Retrospective](https://www.scrum.org/resources/blog/11-ideas-spice-your-retrospective)
 * [The Three Pillars of Empiricism (Scrum)](https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum)
 
-Professional Scrum Competencies:
+# Posters
+
+* [Scrum Values](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2018-05/ScrumValues-Tabloid.pdf)
+* [Scrum Framework 2016](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2021-01/Scrumorg-Scrum-Framework-tabloid.pdf)
+* [Scrum Framework 2020](https://amazing-outcomes.de/en/what-we-offer/what-agility-really-is-about/scrum/scrum-framework-poster)
+
+# Professional Scrum Competencies
+
 * Understanding and Applying the Scrum Framework: Empiricism, Scrum Values, Scrum Team, Events, Artifacts, Done.
 * Developing People and Teams: Self-Managing Teams, Facilitation, Coaching and Mentoring.
 * Managing Products with Agility: Forecasting & Release Planning, Product Value, Product Backlog Management, Stakeholders & Customers.
