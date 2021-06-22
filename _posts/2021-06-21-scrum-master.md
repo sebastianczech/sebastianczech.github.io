@@ -72,12 +72,28 @@ The 7 Principles of Continuous Innovation
 
 ## Scrum Values
 
+The Scrum values help teams adopt Scrum and deliver amazing software for their customers.  And, they also create a great place to work. 
+
 Scrum Values:
-1. Focus
-2. Openness
-3. Courage
-4. Commitment
-5. Respect
+1. Focus - everyone focuses on the work of the sprint and the goals of the scrum team
+2. Openness - scrum team and its stakeholders agree to be open about all the work and the challenges with performing the work
+3. Courage - scrum team members have courage to do the right thing and work on though problems
+4. Commitment - people personally commit to achieving the goals of the scrum team
+5. Respect - scrum team members respect each other to be capable, independent people
+
+Cultural environment is necessary for success, we could try to make the Scrum Values real by focusing on six principles:
+1. Self-organization
+2. Done means done
+3. Empowered Product Owners
+4. Servant-leader Scrum Masters
+5. Scrum Team ownership for adaption
+6. The delivery of business value
+
+As a Scrum Master, you demonstrate servant leadership by coaching with the Scrum values. There are 4 Ways to Coach with the Scrum Values:
+1. Establish what the Scrum values mean to us as individuals and as a team.
+2. Use the Scrum values to help guide decision-making.
+3. Observe and discuss outcomes and behaviors and refine what the Scrum values mean to us.
+4. Identify actions for improvement.
 
 ## Scrum Team
 
