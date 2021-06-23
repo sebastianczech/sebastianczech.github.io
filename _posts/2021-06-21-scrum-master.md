@@ -112,6 +112,47 @@ Scrum has three accountabilities, each with a different focus :
 * Developers (*how?*)
 * Scrum Master
 
+A great Scrum Master...
+* Ensures the entire team supports the chosen **Scrum process**;
+* Manages the **impediments** that exceed the self-organizing capabilities of the team and it prevents them in achieving the Sprint Goal;
+* Recognizes **healthy team conflict** and promotes constructive disagreement;
+* Is prepared to be **disruptive** enough to enforce a change within the organization;
+* Understands the power of **self-management**;
+* Understands the value of a **steady sprint rhythm** and does everything to create and maintain it;
+* Knows how to **truly listen** and is comfortable with silence;
+* Understands the **strength of coaching** and has learned some powerful questions by heart;
+* **Teaches the Product Owner** how to maximize ROI and meet objectives;
+* Is also competent with **XP, Kanban, and Lean**.
+
+*Scrum Master should always prevent a fully booked schedule*. A smart Scrum Master has lots of free space in his/her agenda. The more the better.
+
+As a daily preparation a Scrum Master could consider questions like:
+* How is my Product Owner doing?
+  * Is the Product Backlog in shape?
+  * How is he/she managing the stakeholders?
+  * What about delivering business value and return-on-investment?
+* How is the Scrum Team doing?
+  * Are they working together?
+  * Is there conflict in the team, do they resolve that?
+  * Is the team making decisions?
+* How are our engineering practices doing?
+  * Is the team caring and improving them?
+  * How is the test automation?
+  * Is the team expanding their Definition of Done?
+* How is my organization doing?
+  * Is there inter-team coordination?
+  * What organizational impediments are in the way?
+  * What about the HR practices?
+
+A day in the life of a Scrum Master:
+* Start the day with an open and curious mind (and in my case some good coffee)
+* A good first question to consider is "How can I improve the life of the Scrum Team by facilitating creativity and empowerment?"
+* Remember: your agenda is as good as empty! Except for the Daily Scrum and maybe some other Scrum events
+* You attend the Daily Scrum as an observer. You listen to what is and isn't being said.
+* You consider some of the questions I've mentioned earlier.
+* Based on your observations you determine your next steps. This might be coaching, consulting, teaching, facilitating, mentoring, managing, problem-solving, conflict navigating or... just sitting with the team, listening, and watching the team.
+* Doing "nothing" is a perfect activity for a Scrum Master! The biggest pitfall for a Scrum Master is being too busy and not noticing what is really going on.
+
 ## Events
 
 The Scrum framework describes 5 events: 
