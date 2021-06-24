@@ -126,6 +126,8 @@ A great Scrum Master...
 
 *Scrum Master should always prevent a fully booked schedule*. A smart Scrum Master has lots of free space in his/her agenda. The more the better.
 
+The Scrum Master serves the Development Team in several ways, including: Coaching the Development Team in self-organization and cross-functionality.
+
 As a daily preparation a Scrum Master could consider questions like:
 * How is my Product Owner doing?
   * Is the Product Backlog in shape?
