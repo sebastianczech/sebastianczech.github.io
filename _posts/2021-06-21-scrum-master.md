@@ -97,6 +97,8 @@ As a Scrum Master, you demonstrate servant leadership by coaching with the Scrum
 
 ## Scrum Team
 
+**Scrum provides the minimal boundaries within which teams can self-organize to solve a complex problem using an empirical approach**
+
 The 8 Stances of a Scrum Master:
 1. Servant Leader
 2. Facilitator
@@ -172,6 +174,8 @@ The Famous Spotify Model:
 * **Tribe**: collection of Squads that work in a related area
 * **Chapter**: a family of people inside a Tribe with similar skills
 * **Guild**: a community of practice cross Tribe
+
+Myth 8: The Scrum Master is a Junior Agile Coach
 
 ## Events
 
