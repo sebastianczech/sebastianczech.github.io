@@ -155,6 +155,24 @@ A day in the life of a Scrum Master:
 * Based on your observations you determine your next steps. This might be coaching, consulting, teaching, facilitating, mentoring, managing, problem-solving, conflict navigating or... just sitting with the team, listening, and watching the team.
 * Doing "nothing" is a perfect activity for a Scrum Master! The biggest pitfall for a Scrum Master is being too busy and not noticing what is really going on.
 
+Scrum Master:
+* Promotes and supports the use of Scrum
+* A focus on transparency
+* Is a Servant Leader
+    * Service to others
+    * Promotes a sense of community
+    * Holistic approach to work
+    * Shared decision-making power
+* Serves the PO, Team, and Organization
+
+**Scrum does not care about job titles**
+
+The Famous Spotify Model:
+* **Squad**: similar to a Scrum Team
+* **Tribe**: collection of Squads that work in a related area
+* **Chapter**: a family of people inside a Tribe with similar skills
+* **Guild**: a community of practice cross Tribe
+
 ## Events
 
 The Scrum framework describes 5 events: 
