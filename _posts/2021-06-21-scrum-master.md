@@ -204,6 +204,27 @@ The Scrum framework describes 3 artifacts:
 
 These artifacts provide the team with a minimal set of materials to plan, execute, and review the Sprint.
 
+Myth 2: The Sprint Backlog can’t change during the Sprint
+
+Although the Sprint Goal is fixed during the Sprint, the Sprint Backlog is not - Sprint Backlog is flexible, as long as changes do not distract from the focus on the Sprint Goal. In the context of the Sprint Backlog, the word [“commitment” was replaced by “forecast”](https://www.scrum.org/resources/commitment-vs-forecast). However, commitment is still relevant for the Development Team; they commit themselves to:
+* Fulfil the Sprint Goal;
+* Delivering working, high-quality and usable software that meets the expectations of the customers and users;
+* Working only on the Product Backlog items with the highest value;
+* Focus on continuous improvement, learning, and technical excellence;
+* Continuously inspect and adapt, by which empiricism is supported;
+* Collaborate with all the business people involved;
+* The values and elements that build up the Scrum framework.
+
+Where the Sprint Backlog is the expected output, the Sprint Goal is the desired outcome that we want to achieve. Instead of trying to cram as much as we can into a Sprint, our goal should be to reach the desired outcome (the Sprint Goal) with the least amount of output (Sprint Backlog).
+
+Scrum Myth: The Sprint Backlog is a Commitment:
+* A set of Product Backlog Items that form a plan to realise the Sprint Goal
+* A forecast of functionality in the next increment
+* A forecast of the work required
+* An artifact to make visible all the work the Development Team has identified as necessary to meet the Sprint Goal
+
+The Sprint Backlog is the set of Product Backlog items selected for the Sprint, plus a plan for delivering the product Increment and realizing the Sprint Goal. The Sprint Backlog is a forecast by the Development Team about what functionality will be in the next Increment and the work needed to deliver that functionality into a “Done” Increment.
+
 ## Done
 
 The objective of each Sprint is to deliver an Increment. 
