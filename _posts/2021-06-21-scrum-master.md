@@ -281,6 +281,32 @@ Tips:
 * Find Sprint Goals that offer guidance during the Sprint and promote collaboration in your team;
 
 “The lack of Sprint Goals is one of the biggest impediments facing Scrum Teams today.”
+
+Challenges with the Sprint Goal:
+1. Challenge #1: There is no Sprint Goal
+2. Challenge #2: The work is the Sprint Goal
+3. Challenge #3: There is no room for anything else
+4. Challenge #4: There is no focus on the Sprint Goa
+5. Challenge #5: The goal is not a goal
+
+The Sprint Goal is an objective set for the Sprint that can be met through the implementation of a Product Backlog. It provides **guidance to the Development Team** on why it is building the Increment. It is created during the Sprint Planning meeting. The Sprint Goal **gives the Development Team some flexibility** regarding the functionality implemented within the Sprint. The selected Product Backlog items deliver **one coherent function**, which can be the Sprint Goal. The Sprint Goal can be **any other coherence** that causes the Development Team to work together rather than on separate initiatives (Scrum Guide, 2016).
+
+Six Reasons Why You Need to Pay More Attention to the Sprint Goal:
+* The Sprint Goal gives the Development Team some flexibility
+* The Sprint Goal gives sense to the tasks and motivates the Team
+* The Sprint Goal unites the Development Team
+* The Sprint Goal helps in managing risks
+* The Sprint Goal helps with focus and making decisions
+* The Sprint Goal helps manage stakeholders' expectations
+
+The Sprint Goal provides guidance to why we are building the Increment
+
+4 Challenges With Sprint Goals (and some tips for resolving them)
+1. The Sprint Goal is too big.
+2. The Sprint Goal is vague.
+3. The team doesn't pay attention to the Sprint Goal during the Sprint.
+4. The Sprint Goal doesn't feel meaningful.v
+
 ## Done
 
 The objective of each Sprint is to deliver an Increment. 
