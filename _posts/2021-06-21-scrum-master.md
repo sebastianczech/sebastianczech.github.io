@@ -17,6 +17,7 @@ tags: agile, scrum
 * [Sprint Review: Much More Than Just A Demo](https://www.scrum.org/resources/blog/sprint-review-much-more-just-demo)
 * [11 Ideas to Spice up Your Retrospective](https://www.scrum.org/resources/blog/11-ideas-spice-your-retrospective)
 * [The Three Pillars of Empiricism (Scrum)](https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum)
+* [The Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)
 
 # Posters
 
@@ -311,6 +312,47 @@ The Sprint Goal provides guidance to why we are building the Increment
 
 The objective of each Sprint is to deliver an Increment. 
 The Definition of Done (DoD) provides a way for the team to make what done means transparent.
+
+Developers needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every Increment of software that they deliver.
+
+“The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.”
+
+Characteristics of a Definition of Done:
+* A short, measurable checklist
+* Mirrors shippable
+* No further work
+
+Some examples of things to put on your definition of done:
+* Increment Passes SonarCube checks with no Critical errors
+* Increment’s Code Coverage stays the same or gets higher
+* Increment meets agreed engineering standards
+* Acceptance Criteria for Increment pass
+* Acceptance Tests for Increment are Automated
+* Security Checks Pass on Increment 
+* Increment meets agreed UX standards
+* Increment meets agreed Architectural Guidelines
+
+The Definition of Done is the commitment to quality for the Increment!
+
+Growing your Definition of Done (DoD) - always look for ways that you can increase your quality
+
+The tyranny of work which is nearly done, but not really done, can put a team in servitude to technical debt. 
+
+"Done" criteria which are needed to effect a release, but which cannot yet be observed, constitute a deficit. They should be enumerated here (e.g. by moving them out of the Definition of Done).
+
+Definition of Done Should include a Definition of Undo(ne)
+
+CI/CD/DCA - Continuous Integration + Continuous Delivery + Data Capture / Analysis
+
+Myth 3: In Scrum, releases are done only at the end of the Sprint
+
+The completeness of the increment is defined by the amount of time that is still needed to get the increment to users (e.g. to production).
+The more time is needed, the less Agile the organisation is.
+
+Sprint represents a minimal boundary for when to deliver a “Done” increment. There is nothing in the Scrum Framework that prevents Scrum Teams from releasing working software throughout the Sprint, as long as the Product Owner is involved in the decision to release. 
+
+Demo of working software is only a small part of the Sprint Review. The primary purpose of this event is to inspect what was done during the Sprint and to decide what next things can be done to optimize value. The more “Done” the increment is, the more useful the feedback that is gathered will be.
+So if the team has already released working software during the Sprint, this makes the Sprint Review an excellent opportunity to inspect feedback from real users and adapt based on the insights that emerge from that. The value of the Sprint Review actually increases as the “Definition of Done” of a team moves towards “Released to production”.
 
 ## Scaling
 
