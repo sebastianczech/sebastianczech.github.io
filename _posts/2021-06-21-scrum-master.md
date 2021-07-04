@@ -368,6 +368,34 @@ A fundamental foundational element to Scrum; cross-functional, self-managing and
 
 Facilitation is a set of practices that help support the collaboration, communication, and creativity of teams and individuals.
 
+Agile Coach Toolkit #4: Effective Facilitation:
+- Purpose – As a Scrum Master, you will need to facilitate Scrum events, decision making, conflict resolution and other critical discussions. This will require some preparation and deliberation to ensure the goals are met.
+- Description – Facilitation is needed to ensure that the group works cooperatively and effectively. As a Scrum Master, you will need to take care of a few aspects to help meet the goal(s) of the discussion. Tips for effective facilitation are listed below:
+  - Ensure that everyone participating in the discussion understand its purpose.
+  - Working agreement at the beginning will help. 
+  - If the event/ meeting is not interactive, you may want to spend some time take some time to find the Root Cause.
+  - Create a safe environment for people to speak by ensuring that people focus on task at hand rather than pointing fingers. 
+  - Use Timeboxing to ensure that discussions are productive.
+  - Balance the discussions so that introverts feel included in the discussions.
+  - As a facilitator, you need to read the mood in the room to take breaks at regular intervals to keep the energy level high for productive discussion.
+  - Be neutral in your stance and do not take sides.
+
+Agile Coach Toolkit #6: Building Consensus:
+- Have everyone understand the meaning of giving consent
+- Clearly articulate what needs to be decided
+- Before pitching for lengthy discussion, do a quick poll to check if there is consensus
+- If there is a disagreement amongst team members, allow everyone to voice their concerns during the discussion
+- List Scrum Values and ask people the follow them throughout the discussion
+- Leverage Timeboxing to ensure that you curtail lengthy discussions
+- For final decision, do another poll to see if majority of the team agrees
+- Ensure that the team decision is communicated at the end of the meeting
+
+A powerful technique to improve your Scrum events - [1-2-4-All](https://www.liberatingstructures.com/1-1-2-4-all/) - Steps to use this Liberating Structure: 
+1. Start with **1 minute of silent self-reflection** by individuals on a shared challenge, framed as a question;
+1. Take **2 minutes to generate ideas** in pairs, building on ideas from self-reflection;
+1. Create groups of four and use **4 minutes to share and develop ideas** that you’ve discussed within your pair. Notice similarities and differences.
+1. Take **5 minutes to share insights**, ideas and takeaways by asking “What is one idea that stood out in your conversation?”. Each group shares one important idea. Repeat cycle as needed.
+
 ## Leadership Styles
 
 There are many different leadership styles ranging from traditional ‘command and control’ to more collaborative or even Machiavellian. Understanding the right style to use at a given time and how different styles can influence - in a positive or negative way - the agile agenda of empiricism, empowerment, and improvement is a key Focus Area.
