@@ -400,6 +400,81 @@ A powerful technique to improve your Scrum events - [1-2-4-All](https://www.libe
 
 There are many different leadership styles ranging from traditional ‘command and control’ to more collaborative or even Machiavellian. Understanding the right style to use at a given time and how different styles can influence - in a positive or negative way - the agile agenda of empiricism, empowerment, and improvement is a key Focus Area.
 
+Leading High Performing Teams:
+* Goal
+* Leadership
+* Culture
+* Continual improvement
+* Transparency
+* Rapid experimentation
+* Fun
+
+Autonomous teams are self-managing. Self-management requires two critical ingredients:
+
+* An absence of traditional management.
+* A light set of constraints. Constraints help balance autonomy with accountability. Constraints might be an iteration, a Sprint Review, a social contract or a facilitated meeting.
+
+
+The Scrum Master acts as a:
+1. Servant Leader
+   1. Commitment to put yourself last
+   2. Focus on the greatness of others
+   3. Respect other people’s needs to be fully human
+   4. Courage to speak the truth
+   5. Openness about own vulnerability
+2. Facilitator
+3. Coach
+4. Conflict navigator
+5. Manager
+6. Mentor
+7. Teacher
+
+The 28 Characteristics of a Great Scrum Master:
+1. Involves the team with setting up to process
+2. Understands team development
+3. Understands principles are more important than practices
+4. Recognizes and acts on team conflict
+5. Dares to be disruptive
+6. Is aware of the smell of the place
+7. Is both dispensable and wanted
+8. Let his team fail (occasionally)
+9. Encourages ownership
+10. Has read...
+11. Has studied... 
+12. Is RE-TRAINED.
+    1.  Resourceful
+    2.  Enabling
+    3.  Tactful
+    4.  Respected
+    5.  Alternative
+    6.  Inspiring
+    7.  Nurturing
+    8.  Empathic
+    9.  Disruptive
+13. Has faith in self-organization
+14. Values rhythm
+15. Knows the power of silence
+16. Observes
+17. Share experiences
+18. Has a backpack full of different retrospective formats
+19. Can coach professionally
+20. Has influence at organizational level
+21. Prevent impediments
+22. Isn't noticed
+23. Forms a great duo with the Product Owner
+24. Forms a great duo with the Product Owner
+25. Is familiar with gamification
+26. Understands there's more than just Scrum
+27. Leads by example
+28. Is a born facilitator
+
+5 Agile Leadership Tips for Creating Mature Scrum Teams
+1. Focus on the people - Ask your Product Owners & Scrum Masters what you can do to help them grow in their role
+2. Dare to let go -  Ask your Scrum Team what incentives could lead to a higher focus on customer value
+3. Lead by example - Ask your Scrum teams and fellow-leaders how do they perceive the 5 Scrum values in your organisation
+4. Avoid shortcuts -  If you want fast adoption and growth, hire external expertise and create a setting where people can fail and learn fast
+5. Growing in the same pace causes less tension - Ask your Scrum team what organisational limitations keeps them from making decisions as a whole
+
 ## Coaching & Mentoring
 
 A key aspect of servant leadership is the ability to coach and mentor the organization, the team, and the business. The objective of coaching and mentoring is to help people get better at their work, deliver more value, or resolve a conflict or problem.
