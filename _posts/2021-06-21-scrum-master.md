@@ -479,6 +479,36 @@ The 28 Characteristics of a Great Scrum Master:
 
 A key aspect of servant leadership is the ability to coach and mentor the organization, the team, and the business. The objective of coaching and mentoring is to help people get better at their work, deliver more value, or resolve a conflict or problem.
 
+How to Build Trust to Enable Agility - BRAVING
+1. Boundaries - I establish clear boundaries, and I stick to my boundaries.  You establish boundaries, and you hold your boundaries.  We both respect each other’s boundaries.
+2. Reliability - I do what I say I will do.  You do what you say you will do.  Over and over and over again.
+3. Accountability - I hold you to account for doing the things you said you would do.  You can hold me to account for doing the things I said I would do.  
+4. Vault - What you share with me, I will hold in confidence.  And I expect you to do the same with me.. and with others.
+5. Integrity - This is about choosing courage over comfort.  This is about choosing what is right over what is simply fun, fast, or easy. Practice your values rather than just professing them.
+6. Non-Judgment - You can be struggling and ask for help, and I will not judge you.  I can be struggling and ask for help, and you will not judge me.  
+7. Generosity - You can assume the most generous things about my words, actions, and intentions.  And I will do the same for you.
+
+Coaching Secret:  Stop being so helpful
+1. Moving towards action too quickly limits learning.
+2. Offering advice limits creativity and ownership.
+3. Owning the actions creates overwhelm for us and limits growth for others.
+
+Coaching patterns:
+1. The Socratic Method. I ask a lot of questions and try to stimulate critical thinking.
+2. The dictatorial pattern. You literally dictate a solution.  
+3. The mirroring pattern.
+4. Swarming.
+5. The voice from afar pattern.
+
+Agile Coach Toolkit #5: Active Listening:
+1. Level 1: Internal listening
+2. Level 2: Focused listening
+3. Level 3: Global listening
+
+Tips for Active Listening:
+1. Get rid of distractions like mobile phone, laptops or other electronics, move away from noisy places.
+2. Before the conversation, become self-aware by taking a moment to assess your mood and clear your thoughts.
+3. Maintain an open posture – unfold your arms, unclench your fists and keep good eye contact.
 ## Teaching
 
 The ability to inspire others to learn and share information in an effective, repeatable, and efficient manner is a key aspect to any agile practitioners' skills. 
