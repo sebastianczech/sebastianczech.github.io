@@ -519,6 +519,106 @@ The ability to inspire others to learn and share information in an effective, re
 
 Complex problems and the application of an empirical process requires a specific way of planning, estimating, and forecasting.
 
+"The most important metrics are: did we execute the way in which we said we would, and did we deliver the value to the business that we had promised?"
+
+* The Sprint Burndown
+* The Product Burndown
+
+Myth 9: Story Points are Required in Scrum
+
+As with previous posts, let’s start with what the Scrum Guide says on estimation. Although it states that “work may be of varying size, or estimated effort”, it does not prescribe how this estimation should be done. Although Scrum Teams should apply some sort of ‘estimation’, there is no mention of Story Points, hours, ideal days, gut feeling, t-shirt sizes or any other unit for that matter. The Scrum Guide does remind us to use an approach that respects the complexity of software development and to not let estimation replace the importance of empiricism itself.
+
+“Use the empirical process of Scrum to capitalize on change rather than control against it.”
+
+* Accurate estimates are impossible
+* An estimate can’t be a guarantee
+* The time we spend on estimation is a form of waste
+* The estimates themselves are the result of a necessary conversation within the Development Team to arrive at a shared understanding.
+
+“Time-based estimates uphold the illusion of accuracy and predictability.”
+
+This is why the use of relative estimation, in particular ‘Story Points’, was popularized by Extreme Programming
+
+#NoEstimates-movement
+
+* Use the number of items per Sprint (this requires that items are broken down to about equal size)
+* Use size buckets as a guide, where the Development Team classifies items in terms of size (e.g. large, medium, small)
+* Simply use the combined gut feeling of the Development Team to determine if enough work was selected for the Sprint.
+
+“Estimating is often helpful, estimates are often not.” — Esther Derby
+
+“Respect the complexity of software development, and don’t let estimation replace the importance of empiricism itself.”
+
+Tips for Agile product roadmaps & product roadmap examples
+* Goal Oriented product roadmap (GO product roadmap)
+  * Q1, Q2, Q3, Q4
+  * Date, Goal, Key features and Metrics
+* Now-Next-Later product roadmap
+* Story map
+
+11 Tips for Agile Product Roadmaps
+* Start with your product vision (tip: [use Roman's Product Vision board](https://www.romanpichler.com/tools/product-vision-board/));
+* Describe and validate your product strategy;
+* Focus on goals and benefits, by creating a goal oriented product roadmap (or one of the other types I've explained before);
+* Tell a coherent story about the likely growth of your product and don't oversell it;
+* Keep it simple! Resist the temptation to add too much details to your roadmap;
+* Actively collaborate with stakeholders to ensure buy-in;
+* Have the courage to say no, to prevent an overload of features in your roadmap;
+* Think twice about adding timelines, dates or deadlines to your roadmap;
+* Make sure your roadmap is measurable, by adding measurable goals and KPI's;
+* Create a rough estimate for each feature (#people + required skills) to determine the viability of a feature;
+* Review and adapt your product roadmap on a regular basis.
+
+Why is software so unpredictable
+* All software development is product development. 
+* Manufacturing lives in the predictive world.
+* Software lives in the empirical world.
+
+Accept the lack of predictability
+
+Focus on continuous quality
+
+"If you put developers under pressure to deliver they will continuously and increasingly cut quality to meet deadlines"
+
+1. Create a short measurable checklist that mirrors minimum releasable product (Defenition of Done)
+2. Stop adding new features and make your product meet that checklist and release your product
+3. While you have an increment of working software (Sprint)
+   1. Work to create something of value (Increment)
+      1. Work towards a new goal while meeting the DOD (Sprint Goal)
+      2. Leave things better than you found them (Engineering Excellence)
+   2. Review that thing of value with your stakeholders (Sprint Review, Backlog Adaption)
+      1. Get feedback on at least one new thing for stakeholders
+      2. Update the Backlog to reflect this new information
+   3. Reflect on how you worked with your entire team (Sprint Retrospective, Kaizen)
+      1. Is the quality increasing? 
+      2. Is the DOD increasing?
+      3. What can we change to make things better?
+4. Go to #1
+
+There are a number of strategies that can help you both stop creating and start paying back technical-debt:
+* Sufficient requirements
+* Developers choose what they can deliver 
+* Definition of Done (DoD) 
+* Test First 
+* Fixed-length iterations
+* No separate teams
+* Manage dependencies
+* Use a modern source control system
+
+INVEST (Independent, Negotiable, Valued, Estimable, Small, Testable ) 
+
+Small batch delivery
+
+Scrum Myths: There is No Planning in Scrum - The reality is we plan A LOT in Scrum. We just plan differently to optimize effectiveness.
+* In Scrum, we emphasize the activity of planning over the plan itself.
+* In Scrum, the activity of planning is collaborative.
+* In Scrum, the people doing the work own the plan.
+* Planning in Scrum is part of every Event.
+* In Scrum, the way planning is done reduces waste.
+  * We minimize time spent analyzing things that may never happen. 
+  * We minimize time spent analyzing to an impossible level of accuracy. 
+  * We incorporate meaningful feedback every time we plan.
+* In Scrum, we still recognize the inherent unpredictability in complex software development.
 ## Product Vision
 
 The product vision defines the purpose that the product aspires to fulfill. It is defined by the value that the product strives to deliver. 
