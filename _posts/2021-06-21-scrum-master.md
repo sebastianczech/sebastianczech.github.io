@@ -673,6 +673,58 @@ Scrum is:
 
 The Product Backlog is a key artifact within Scrum. It is an ordered list that describes what is needed in the product. The Product Backlog provides transparency into what is happening to the product for the team, organization, and stakeholders. 
 
+The Art of Product Backlog Refinement - According to the Scrum Guide, Product Backlog refinement is the act of adding detail, estimates, and order to items in the Product Backlog.  But Scrum doesn’t prescribe how you do it, and for good reason.
+
+Refinement is an ongoing process.  It never stops because requirements and opportunities never stop changing.  Detailing everything up front would create waste and also delay the delivery of value.
+
+Different products and different teams will have unique needs in terms of frequency, techniques, and level of detail.  
+
+The Goldilocks Principle is about finding what is “just right” for your team. The goal is to balance gaining enough benefits from the activity while minimizing the potential waste. Let’s first look at the 6 benefits of Product Backlog refinement:
+
+1. Increase transparency
+   1. How well do stakeholders and the Scrum Team understand what is planned for the product?
+   2. How frequently are the interested stakeholders surprised by what was delivered?
+2. Clarify value
+   1. How often do you discover during a Sprint that there is not a shared understanding of the business need or what you are building to meet it?
+   2. How frequently do you discover in a Sprint Review or after a release that a PBI does not meet the user or business need?
+3. Break things into consumable pieces
+   1. How often are you not delivering a “Done” Increment?  How often are you not meeting a Sprint Goal?
+   2. When is this attributed to discovering mid-Sprint that PBIs are much bigger than you thought or not sliced thin enough?
+4. Reduce dependencies
+   1. How often do you discover dependencies during a Sprint that jeopardize the Sprint Goal?
+   2. How long do PBIs in a Sprint stay “blocked” by dependencies?
+   3. When do you have to re-order the Product Backlog to account for dependencies?  And how much of an impact does this have on the Product Owner’s ability to optimize value?
+5. Forecasting
+   1. How much lead time is necessary for users, customers, and other stakeholders to implement a new feature or function?  What is the impact if they have less lead time?
+   2. How much detail do users, customers, and other stakeholders need in release forecasts?  What is the impact if they have less detail?
+6. Incorporate learning
+   1. How are you adapting the Product Backlog to reflect new learning about the product’s evolving capabilities and how users are responding to the changes?
+   2. What opportunities have been missed?  What prevented you from responding sooner?
+
+With the information gained from exploring 1-6, the Scrum Team can now consider these questionswith the balance of benefits and waste in mind.
+
+1. How frequently do you want to do refinement?  And how much time do you want to spend detailing the Product Backlog?
+2. Who do you want to be involved in refinement?  What knowledge and perspectives are needed?  How will you enable shared understanding?
+3. How much of your Product Backlog do you want to be “Ready” before a Sprint?  What does “Ready” mean to you?
+4. How do you want to communicate important details about PBIs?  What methods are working well and what methods are not?
+5. How will you ensure you can see the whole and not get bogged down in details?
+
+Five strategies that help Scrum Teams to refine the Product Backlog:
+
+1. Gaining insights 
+2. Ordering the Product Backlog
+3. Estimating Product Backlog items
+4. Breaking down of Product Backlog items
+5. Eliminating dependencies
+
+Myth: Refinement is a required meeting for the entire Scrum Team - The Scrum Guide describes Product Backlog refinement as the act of adding detail, estimates and order items in the Product Backlog. It goes on to describe that this is an ongoing collaboration between the Product Owner and the Development Team and that the Scrum Team as a whole decides how and when to do this.
+
+Scrum provides a lightweight framework for allowing learning to happen as quickly as possible without losing the focus needed for solving complex problems.
+
+Items on a Product Backlog are essentially reminders of conversations that we will need to have in the future.
+
+If your Backlog is not Refined then you are Doing it Wrong
+
 ## Business Strategy
 
 A product lives within the context of a business strategy. That strategy describes how the Product Vision will be executed in a broader context. 
