@@ -655,6 +655,20 @@ Since „people don’t buy what you do, but why you do it“, please Start With
 
 The ultimate goal is to deliver value to the customer and stakeholders. But value is complex, made up of long-term and short-term impact, internal and external value, and indirect and direct value.
 
+Delivery models:
+* plan driven (waterfall)
+* value driven (scrum)
+
+Scrum is a process framework for resolving complex problems iteratively and incrementally to a create a high-value solution that elates customers. Scrum directly addresses many of the shortcomings of Waterfall with project management.
+
+Scrum is:
+
+* Empirical instead of predictive - BASE YOUR DECISIONS AND PROCEDURES ON EXPERIENCE AND EXPERIMENT
+* Iterative instead of sequential - ORGANIZE YOUR WORK INTO SMALLER STEPS
+* Concentrated on gathering continuous feedback instead of  gathering in stages - STAY ALIGNED WITH CUSTOMERS AND  STAKEHOLDERS
+* Value-focused instead of deadline-focused - THIS IS YOUR PRIMARY FOCUS
+* Self-organizing instead of control and command - EMPOWER TEAM MEMBERS TO SELECT AND HOLD RESPONSIBILITY FOR THEIR WORK
+
 ## Product Backlog Management
 
 The Product Backlog is a key artifact within Scrum. It is an ordered list that describes what is needed in the product. The Product Backlog provides transparency into what is happening to the product for the team, organization, and stakeholders. 
