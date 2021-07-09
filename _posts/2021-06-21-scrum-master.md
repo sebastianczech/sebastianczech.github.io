@@ -623,6 +623,34 @@ Scrum Myths: There is No Planning in Scrum - The reality is we plan A LOT in Scr
 
 The product vision defines the purpose that the product aspires to fulfill. It is defined by the value that the product strives to deliver. 
 
+Our book aims to fill that gap by bringing empowerment and entrepreneurship to the role. In other words, Product Owners should be initiating innovation and functionality, not just receiving it.
+
+When we thought about what a professional Product Owner needs to do in order to achieve this, we came up with the three Vs — Vision, Value, and Validation:
+
+* **Vision**: the best thing a Product Owner can do to truly take ownership and inspire others is to establish and communicate a clear vision for the Product. Why are we building it? Whose lives will be improved by it?
+* **Value**: the best thing a Product Owner can do to move away from a project mindset (time, budget, scope) to more of a product mindset (value to stakeholders) is to define and communicate what success looks like. Is it customer satisfaction? Operating costs? Registrations? How will we measure it? How do we know when the value received no longer outweighs the costs?
+* **Validation**: the best way a Product Owner can actively manage risk is to shorten the feedback loop by validating frequently with internal experts and, even better, with the external marketplace. A professional Product Owner knows that the only way to move the needle on any value measurement is to release to customers. Until then, everything is just a hypothesis.
+
+A professional Product Owner embraces empiricism as a way to address the complexity and risk of building something unknown. The three Vs fit perfectly with the three pillars of empiricism:
+
+* **Vision** creates **Transparency**.
+* Defining **Value** provides you with something to **Inspect**.
+* **Validation** causes **Adaptation**.
+
+Why – How – What: From Product Vision to Task
+
+* **Why** you are doing it
+* **How** you are doing it
+* **What** you are doing
+
+Golden Product Circle:
+
+* Vision (why)
+* Product Backlog (how)
+* Task (what)
+
+Since „people don’t buy what you do, but why you do it“, please Start With Why for your product development with Scrum.
+
 ## Product Value
 
 The ultimate goal is to deliver value to the customer and stakeholders. But value is complex, made up of long-term and short-term impact, internal and external value, and indirect and direct value.
