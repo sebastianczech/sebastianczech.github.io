@@ -55,3 +55,5 @@ curl http://127.0.0.1:4566/health | jq
   }
 }
 ```
+
+On [GitHub](https://github.com/localstack/localstack) there is described configuration and there are examples of accessing it via CLI or code. 
