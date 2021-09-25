@@ -35,3 +35,11 @@ export TF_VAR_tenancy_ocid=ocid1.tenancy.oc1.***
 export TF_VAR_compartment_ocid=eu-frankfurt-1
 export TF_VAR_private_key_path=~/.oci/oracleidentitycloudservice_my.cer
 ```
+
+At the end we can provision infrastructure as a code:
+
+```
+terraform init
+terraform plan
+terraform apply
+```
