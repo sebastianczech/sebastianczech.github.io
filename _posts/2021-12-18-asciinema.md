@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Asciinema - CLI termianl session record
+title: Asciinema - CLI terminal session record
 categories: devops
 tags: devops
 ---
 
-[asciinema](https://asciinema.org/) is CLI termianl session record, with which you can start quickly in 3 steps:
+[asciinema](https://asciinema.org/) is CLI terminal session record, with which you can start quickly in 3 steps:
 
 ## Install the recorder
 
