@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS Certified Solutions Architect – Associate
+title: AWS Certified Solutions Architect – Associate (1)
 categories: devops
 tags: devops
 ---
