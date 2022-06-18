@@ -15,3 +15,5 @@ Useful links with materials:
 * [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/?achp_addrcs3&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all)
 * [AWS Solutions Library](https://aws.amazon.com/solutions/?achp_addrcs4)
 * [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/?achp_addrcs2)
+* [AWS Well-Architected Framework – Updated White Papers, Tools, and Best Practices](https://aws.amazon.com/blogs/aws/aws-well-architected-framework-updated-white-papers-tools-and-best-practices/)\
+* [AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
