@@ -6,6 +6,7 @@ tags: devops, iaac
 ---
 
 * [Unit tests](https://www.terraform.io/cdktf/test/unit-tests)
+* [Conftest](https://github.com/open-policy-agent/conftest)
 * [Module testing](https://www.terraform.io/language/modules/testing-experiment)
 * [Terratest - automated tests for infrastructure code](https://terratest.gruntwork.io/)
 * [Kitchen-Terraform - verification of infrastructure](https://github.com/newcontext-oss/kitchen-terraform)
