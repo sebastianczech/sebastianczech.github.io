@@ -16,3 +16,4 @@ tags: devops, iaac
 * [Testing your HCL Modules in Terraform](https://www.hashicorp.com/resources/testing-your-hcl-modules-in-terraform)
 * [Testing Infrastructure as Code on Localhost](https://www.hashicorp.com/resources/testing-infrastructure-as-code-on-localhost)
 * [How to Test Terraform Infrastructure Code](https://winder.ai/how-to-test-terraform-infrastructure-code/)
+* [Terraform with Terratest in Gitlab Pipeline](https://www.infralovers.com/en/articles/2019/12/18/terraform-with-terratest-in-gitlab-pipeline/)
