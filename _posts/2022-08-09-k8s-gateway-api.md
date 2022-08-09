@@ -13,3 +13,4 @@ tags: devops, k8s
 * [Config Sync](https://github.com/GoogleContainerTools/kpt-config-sync)
 * [Configure syncing from multiple repositories](https://cloud.google.com/anthos-config-management/docs/how-to/multiple-repositories)
 * [Cloud Build - serverless CI/CD platform](https://cloud.google.com/build)
+* [Event-driven CI/CD for any Kubernetes on any cloud](https://www.youtube.com/watch?v=i7T8y8XLrfk&ab_channel=GoogleCloudEvents)
