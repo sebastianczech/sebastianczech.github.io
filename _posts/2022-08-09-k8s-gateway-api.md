@@ -12,3 +12,4 @@ tags: devops, k8s
 * [GitOps - Config Sync](https://cloud.google.com/anthos-config-management/docs/config-sync-overview)
 * [Config Sync](https://github.com/GoogleContainerTools/kpt-config-sync)
 * [Configure syncing from multiple repositories](https://cloud.google.com/anthos-config-management/docs/how-to/multiple-repositories)
+* [Cloud Build - serverless CI/CD platform](https://cloud.google.com/build)
