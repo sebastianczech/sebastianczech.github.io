@@ -40,3 +40,4 @@ Are you interested in answer for question *is the TLD harmful while doing IaC* ?
 * [Example with Terraform / AWS / S3](https://github.com/joatmon08/tdd-infrastructure/tree/main/tf-aws-s3)
 * [Examples for Test-Driven Development (TDD) of infrastructure.](https://github.com/joatmon08/tdd-infrastructure)
 * [Test-later development (TLD) - writing unit test after writing code considered harmful in test-driven development](https://opensource.com/article/20/2/automate-unit-tests)
+* [TDD vs TLD and what is the minimum code coverage needed](https://medium.com/swlh/tdd-vs-tld-and-what-is-the-minimum-code-coverage-needed-f380181d3400)
