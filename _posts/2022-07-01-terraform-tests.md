@@ -15,9 +15,6 @@ Using test-driven development (TDD) approach in software development is broadly 
 
 As we have a lot of types of tests, we have also different approaches when and how to write them. In case of TDD there is common cycle - writing failing test (red phase), implementing code which causes that tests is succeeding (green phase) and adjusting code (refactor phase). For infrastructure sometimes it's very hard to write tests before implementation e.g. validation rule variable can be created after variable is defined, not before, that's why in many cases for IaC we can talk about test-later development (TLD) method.
 
-Are you interested how to do every type of test in practice (live demo) ?
-Are you interested in answer for question *is the TLD harmful while doing IaC* ? 
-
 # Links
 * [Unit tests](https://www.terraform.io/cdktf/test/unit-tests)
 * [Conftest](https://www.conftest.dev/)
