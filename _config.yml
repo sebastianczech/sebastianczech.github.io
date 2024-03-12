@@ -28,7 +28,8 @@ twitter_username: sebaczech
 github_username:  sebastianczech
 
 # Build settings
-theme: minima
+remote_theme: daattali/beautiful-jekyll@6.0.1
+# theme: minima
 # theme: minimal-mistakes-jekyll
 # minimal_mistakes_skin: "contrast" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
