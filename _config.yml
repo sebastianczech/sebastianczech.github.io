@@ -32,8 +32,9 @@ github_username:  sebastianczech
 # paginate_path: "/blog/page:num/"
 
 # Build settings
-# remote_theme: daattali/beautiful-jekyll@6.0.1
 theme: minima
+# remote_theme: daattali/beautiful-jekyll@6.0.1
+# theme: beautiful-jekyll-theme
 # theme: minimal-mistakes-jekyll
 # minimal_mistakes_skin: "contrast" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
