@@ -5,12 +5,12 @@ categories: aws
 tags: aws
 ---
 
-Today I participated in [AWS Community Day Poland 2024](https://awscommunity.pl/). It was great oportunity to learn, to meet people, to discuss interesting topics around AWS and clouds. Below there are my key takeaways from presentations, which I watched today:
+Today I participated in [AWS Community Day Poland 2024](https://awscommunity.pl/). It was great opportunity to learn, to meet people, to discuss interesting topics around AWS and clouds. Below there are my key takeaways from presentations, which I watched today:
 
 - Streamlining Compliance: Leveraging Open-Source Terraform AWS modules:
   - [Terraform AWS modules](https://github.com/terraform-aws-modules)
   - [terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices)
-  - [weekly.tf/](https://www.weekly.tf/)
+  - [weekly.tf](https://www.weekly.tf/)
   - [serverless.tf](https://serverless.tf/)
   - [YouTube - Anton Babenko](https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ)
 - AWS Cost Optimization for a busy developer:
