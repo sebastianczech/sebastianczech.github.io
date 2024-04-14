@@ -50,7 +50,7 @@ Today I participated in [AWS Community Day Poland 2024](https://awscommunity.pl/
       - EBS - unattached disk drives (do snapshots before delete)
       - EC2 & RDS - scheduler for DEV & TEST environments
         - stop machines at night
-        - AWS Instance Scheduler (not for ASG)
+        - [AWS Instance Scheduler](https://aws.amazon.com/solutions/implementations/instance-scheduler-on-aws/) (not for ASG)
       - RDS - destroy idle instances (no connections in last 14 days)
       - NAT Gateway - destroy idle
       - Glue Crawlers - duplicated schedule
@@ -62,6 +62,21 @@ Today I participated in [AWS Community Day Poland 2024](https://awscommunity.pl/
     - [Cedar](https://www.cedarpolicy.com/en)
     - [AVP CLI Tool](https://github.com/Pigius/avp-cli)
     - [build-on-aws](https://github.com/build-on-aws)
+  - Notes:
+    - challenge - permissions implemented in the code
+    - policy-based authorization e.g. AWS IAM
+    - authorization as a service
+    - [Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/)
+    - [Cedar](https://www.cedarpolicy.com/en):
+      - policy language
+      - policy evaluation and authorization engine
+    - Every policy statement must include an effect and a scope:
+      -  The effect specifies whether this a permit or a forbid policy
+      -  The scope specifies the principal[s], the action[s], and the resource[s] to which the effect applies
+      -  Optionally, the statement may also include one or more conditions in the form of when or unless clauses
+   -  Proper RBAC - deny by default
+   -  ABAC - attributes based access control
+   -  AVP vs. self-hosted Cedar
 - Sky is the limit - Ryanair's story of customer notifications solution
 - Designing and building a scale hybrid network:
   - Links:
