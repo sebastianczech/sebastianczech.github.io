@@ -20,14 +20,18 @@ Today I participated in [AWS Community Day Poland 2024](https://awscommunity.pl/
     - Auto-remedation tools: [checkov](https://www.checkov.io/), [trivy](https://trivy.dev/), [Terrascan](https://runterrascan.io/)
     - [Make your Terraform modules compliance-ready](https://compliance.tf/)
 - AWS Cost Optimization for a busy developer:
-  - [Serverless Polska](https://serverlesspolska.pl/)
-  - [CloudPouch](https://cloudpouch.dev/)
+  - Links:
+    - [Serverless Polska](https://serverlesspolska.pl/)
+    - [CloudPouch](https://cloudpouch.dev/)
 - Build verifiable and effective application authorization in 30 minutes:
-  - [Cedar](https://www.cedarpolicy.com/en)
-  - [AVP CLI Tool](https://github.com/Pigius/avp-cli)
-  - [build-on-aws](https://github.com/build-on-aws)
+  - Links:
+    - [Cedar](https://www.cedarpolicy.com/en)
+    - [AVP CLI Tool](https://github.com/Pigius/avp-cli)
+    - [build-on-aws](https://github.com/build-on-aws)
 - Sky is the limit - Ryanair's story of customer notifications solution
 - Designing and building a scale hybrid network:
-  - [AWS Cloud Chronicles](https://www.cloudresearch.tech/)
+  - Links:
+    - [AWS Cloud Chronicles](https://www.cloudresearch.tech/)
 - Supercharge Lambda functions with AWS Powertools:
-  - [Powertools for AWS](https://powertools.aws.dev/)
+  - Links:
+    - [Powertools for AWS](https://powertools.aws.dev/)
