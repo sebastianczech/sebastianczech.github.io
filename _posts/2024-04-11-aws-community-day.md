@@ -8,11 +8,17 @@ tags: aws
 Today I participated in [AWS Community Day Poland 2024](https://awscommunity.pl/). It was great opportunity to learn, to meet people, to discuss interesting topics around AWS and clouds. Below there are my key takeaways from presentations, which I watched today:
 
 - Streamlining Compliance: Leveraging Open-Source Terraform AWS modules:
-  - [Terraform AWS modules](https://github.com/terraform-aws-modules)
-  - [terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices)
-  - [weekly.tf](https://www.weekly.tf/)
-  - [serverless.tf](https://serverless.tf/)
-  - [YouTube - Anton Babenko](https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ)
+  - Links:
+    - [Terraform AWS modules](https://github.com/terraform-aws-modules)
+    - [terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices)
+    - [weekly.tf](https://www.weekly.tf/)
+    - [serverless.tf](https://serverless.tf/)
+    - [YouTube - Anton Babenko](https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ)
+  - Notes:
+    - Compliance framework: CIS, PCI DSS, GPDR, SOC2
+    - General tools: AWS Security Hub, [Prowler](https://github.com/prowler-cloud/prowler), [CloudQuery](https://www.cloudquery.io/), [Steampipe](https://steampipe.io/)
+    - Auto-remedation tools: [checkov](https://www.checkov.io/), [trivy](https://trivy.dev/), [Terrascan](https://runterrascan.io/)
+    - [Make your Terraform modules compliance-ready](https://compliance.tf/)
 - AWS Cost Optimization for a busy developer:
   - [Serverless Polska](https://serverlesspolska.pl/)
   - [CloudPouch](https://cloudpouch.dev/)
