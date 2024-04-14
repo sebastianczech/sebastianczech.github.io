@@ -23,6 +23,40 @@ Today I participated in [AWS Community Day Poland 2024](https://awscommunity.pl/
   - Links:
     - [Serverless Polska](https://serverlesspolska.pl/)
     - [CloudPouch](https://cloudpouch.dev/)
+  - Notes:
+    - [Slides](https://sls-polska-downloads.s3.eu-central-1.amazonaws.com/AWS+Cost+Optimization+for+a+busy+developer-04.2024.pdf)
+    - Cost alarms:
+      - create budget set alarms
+      - free tier alerts
+      - enable cost anomaly detection
+    - [AWS Cost Optimization Hub](https://aws.amazon.com/aws-cost-management/cost-optimization-hub/)
+    - Classification of cost optimization techniques:
+      - quick win vs. high effort
+      - types:
+        - waste (idle or overuse):
+          - stop
+        - misconfiguration:
+          - rightsize
+          - upgrade e.g. disk from GP2 to GP3
+        - architecture:
+          - graviton
+        - organization level:
+          - saving plans
+          - reserved instances
+    - [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
+      - 28 cost checks (paid)
+      - support minimum business
+    - cost optimization techniques for self-checking:
+      - EBS - unattached disk drives (do snapshots before delete)
+      - EC2 & RDS - scheduler for DEV & TEST environments
+        - stop machines at night
+        - AWS Instance Scheduler (not for ASG)
+      - RDS - destroy idle instances (no connections in last 14 days)
+      - NAT Gateway - destroy idle
+      - Glue Crawlers - duplicated schedule
+      - S3 bucket - no lifecycle policies -> too much outdated versions
+      - S3 bucket - intellignet tiering -> use it from the beginning
+      - Lambda on Graviton
 - Build verifiable and effective application authorization in 30 minutes:
   - Links:
     - [Cedar](https://www.cedarpolicy.com/en)
