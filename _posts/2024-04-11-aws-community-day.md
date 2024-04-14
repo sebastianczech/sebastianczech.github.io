@@ -81,6 +81,42 @@ Today I participated in [AWS Community Day Poland 2024](https://awscommunity.pl/
 - Designing and building a scale hybrid network:
   - Links:
     - [AWS Cloud Chronicles](https://www.cloudresearch.tech/)
+  - Notes:
+    - Hybrid connectivity:
+      - TGW
+      - [Cloud WAN](https://aws.amazon.com/cloud-wan/)
+      - [Network Manager](https://docs.aws.amazon.com/managedservices/latest/userguide/networking-manager.html)
+      - [Network Firewall](https://aws.amazon.com/network-firewall/)
+      - Direct Connect
+      - Site-to-site VPN
+    - TGW - connection to remote:
+      - VPN IPSec
+      - VPN GRE
+    - TGW peering
+    - TGW sharing
+    - 1 TGW per region
+    - Direct Connect:
+      - direct connection
+      - hosted connection
+    - VIF (Virtual Interface)
+      - private
+      - public
+      - transit
+    - P2P encryption for AWS Direct Connect Link:
+      - IPSec
+      - MACSec
+    - use ECMP on TGW to increase throughput
+    - Site Link
+    - Direct Connect Gateway
+    - redundancy:
+      - second Direct Connect
+      - VPN
+    - BGP session goes down if routes limit exceeded
+    - network segmentation - multiple TGW route tables
+    - AWS Network Firewall + GWLB
+    - TGW is good, Cloud WAN is better
+    - multi-region deployment
+    - multi-layer security
 - Supercharge Lambda functions with AWS Powertools:
-  - Links:
-    - [Powertools for AWS](https://powertools.aws.dev/)
+  - [Powertools for AWS](https://powertools.aws.dev/)
+  - [Powertools for AWS Lambda (Python)](https://github.com/aws-powertools/powertools-lambda-python)
