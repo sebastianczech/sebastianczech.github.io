@@ -1,0 +1,15 @@
+---
+layout: post
+title: Static Code Analyzers and vulnerability scanners
+categories: scan
+tags: scan
+---
+
+* Sonar products:
+  * [SonarQube Cloud (as a service)](https://www.sonarsource.com/products/sonarcloud/)
+  * [SonarQube Server](https://www.sonarsource.com/products/sonarqube/)
+  * [SonarQube IDE (extension)](https://www.sonarsource.com/products/sonarlint/)
+* [Sonatype Nexus IQ Server](https://help.sonatype.com/en/installing-iq-server.html)
+* [OpenText Fortify Static Code Analyzer](https://www.opentext.com/products/static-application-security-testing)
+* [Trivy](https://trivy.dev)
+* [Checkov](https://www.checkov.io/)
