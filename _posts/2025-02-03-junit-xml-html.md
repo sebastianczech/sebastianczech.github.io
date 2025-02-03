@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Convert Junit XML reports into HTML
+title: Convert JUnit XML reports into HTML
 categories: devops, cicd
 tags: devops, cicd
 ---
