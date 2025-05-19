@@ -1,0 +1,26 @@
+services:
+  # Development service with live reload
+  jekyll-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/srv/jekyll
+      - ./_site:/srv/jekyll/_site
+    ports:
+      - "4000:4000"
+    command: >
+      bash -c "bundle install &&
+      bundle exec jekyll serve --host 0.0.0.0 --livereload"
+
+  # Build service for production
+  jekyll-build:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/srv/jekyll
+      - ./_site:/srv/jekyll/_site
+    command: >
+      bash -c "bundle install &&
+      bundle exec jekyll build"
